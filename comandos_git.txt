@@ -1,5 +1,6 @@
 Primeiros comandos em git
 
+---------------------------------------------------
 git init .
 git config --global user.name "seu nome"
 git config --global user.email "seuemail@email.com"
@@ -7,3 +8,5 @@ git status
 git add <nome_arquivo>
 git status
 git commit -m "Mensagem do commit"
+
+---------------------------------------------------
