@@ -1,0 +1,9 @@
+total 19
+drwxr-xr-x 1 ventura 1049089    0 Apr 24 17:39 ./
+drwxr-xr-x 1 ventura 1049089    0 Apr 24 17:36 ../
+drwxr-xr-x 1 ventura 1049089    0 Apr 24 17:38 .git/
+-rw-r--r-- 1 ventura 1049089 1083 Apr 24 17:36 README.md
+-rw-r--r-- 1 ventura 1049089   98 Apr 24 17:36 comandos_branch.txt
+-rw-r--r-- 1 ventura 1049089  316 Apr 24 17:36 comandos_git.txt
+-rw-r--r-- 1 ventura 1049089   48 Apr 24 17:36 github.txt
+-rw-r--r-- 1 ventura 1049089    0 Apr 24 17:39 teste.txt
